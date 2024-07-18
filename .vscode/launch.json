@@ -11,9 +11,9 @@
             "module": "rendercv",
             "args": [
                 "render",
-                "John_Doe_CV.yaml",
+                "src/Bradley_Chester_CV.yaml",
                 "--pdf-path",
-                "John_Doe_CV.pdf",
+                "Bradley_Chester_CV.pdf",
                 "--markdown-path",
                 "README.md"
             ]
