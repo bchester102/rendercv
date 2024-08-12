@@ -1,139 +1,75 @@
 cv:
-  name: John Doe
-  location: Your Location
-  email: youremail@yourdomain.com
-  phone: tel:+90-541-999-99-99
-  website: https://yourwebsite.com/
+  name: Bradley Chester
+  location: San Diego, CA
+  email: bradleychester102@gmail.com
+  phone: tel:+1-619-379-8902
+  # website: https://yourwebsite.com/
   social_networks:
     - network: LinkedIn
-      username: yourusername
+      username: bradley-chester
     - network: GitHub
-      username: yourusername
+      username: bchester102
   sections:
-    welcome_to_RenderCV!:
-      - '[RenderCV](https://github.com/sinaatalay/rendercv) is
-        a LaTeX-based CV/resume framework. It allows you to create
-        a high-quality CV or resume as a PDF file from a YAML
-        file, with **full Markdown syntax support** and **complete
-        control over the LaTeX code**.'
-      - The boilerplate content is taken from [here](https://github.com/dnl-blkv/mcdowell-cv),
-        where a *clean and tidy CV* pattern is proposed by **[Gayle
-        Laakmann McDowell](https://www.gayle.com/)**.
-    quick_guide:
-      - bullet: Each section title is arbitrary, and each section
-          contains a list of entries.
-      - bullet: 'There are 7 unique entry types: *BulletEntry*,
-          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
-          *PublicationEntry*, and *OneLineEntry*.'
-      - bullet: Select a section title, pick an entry type, and
-          start writing your section!
-      - bullet: '[Here](https://docs.rendercv.com/user_guide/),
-          you can find a comprehensive user guide for RenderCV.'
     education:
-      - institution: University of Pennsylvania
+      - institution: University of California, San Diego
         area: Computer Science
         degree: BS
-        start_date: 2000-09
-        end_date: 2005-05
+        start_date: 2020-10
+        end_date: 2024-06
         highlights:
-          - 'GPA: 3.9/4.0 ([Transcript](https://example.com))'
-          - '**Coursework:** Computer Architecture, Artificial
-            Intelligence, Comparison of Learning Algorithms, Computational
-            Theory'
-    experience:
-      - company: Apple
-        position: Software Engineer
-        location: Cupertino, CA
-        start_date: 2005-06
-        end_date: 2007-08
-        highlights:
-          - Reduced time to render the user's buddy list by 75%
-            by implementing a prediction algorithm
-          - Implemented iChat integration with OS X Spotlight
-            Search by creating a tool to extract metadata from
-            saved chat transcripts and provide metadata to a system-wide
-            search database
-          - Redesigned chat file format and implemented backward
-            compatibility for search
-      - company: Microsoft
-        position: Lead Student Ambassador
-        location: Redmond, WA
-        start_date: 2003-09
-        end_date: 2005-04
-        highlights:
-          - Promoted to Lead Student Ambassador in the Fall of
-            2004, supervised 10-15 Student Ambassadors
-          - 'Created and taught a computer science course, CSE
-            099: Software Design and Development'
-      - company: University of Pennsylvania
-        position: Head Teaching Assistant
-        location: Philadelphia, PA
-        start_date: 2001-10
-        end_date: 2003-05
-        highlights:
-          - Implemented a user interface for the VS open file
-            switcher (ctrl-tab) and extended it to tool windows
-          - Created a service to provide gradient across VS and
-            VS add-ins, optimized its performance via caching
-          - Programmer Productivity Research Center (Summers 2001,
-            2002)
-          - Built an app to compute the similarity of all methods
-            in a code base, reducing the time from $\mathcal{O}(n^2)$
-            to $\mathcal{O}(n \log n)$
-          - Created a test case generation tool that creates random
-            XML docs from XML Schema
-      - company: Microsoft
-        position: Software Engineer, Intern
-        location: Redmond, WA
-        start_date: 2003-06
-        end_date: 2003-08
-        highlights:
-          - Automated the extraction and processing of large datasets
-            from legacy systems using SQL and Perl scripts
-    publications:
-      - title: Magneto-Thermal Thin Shell Approximation for 3D
-          Finite Element Analysis of No-Insulation Coils
-        authors:
-          - Albert Smith
-          - '***John Doe***'
-          - Jane Derry
-          - Harry Tom
-          - Frodo Baggins
-        doi: 10.1109/TASC.2023.3340648
-        date: 2004-01
-    projects:
-      - name: Multi-User Drawing Tool
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
-        highlights:
-          - Developed an electronic classroom where multiple users
-            can view and simultaneously draw on a "chalkboard"
-            with each person's edits synchronized
-          - 'Tools Used: C++, MFC'
-      - name: Synchronized Calendar
-        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
-        highlights:
-          - Developed a desktop calendar with globally shared
-            and synchronized calendars, allowing users to schedule
-            meetings with other users
-          - 'Tools Used: C#, .NET, SQL, XML'
-      - name: Operating System
-        date: 2002
-        highlights:
-          - Developed a UNIX-style OS with a scheduler, file system,
-            text editor, and calculator
-          - 'Tools Used: C'
-    additional_experience_and_awards:
-      - label: Instructor (2003-2005)
-        details: Taught 2 full-credit computer science courses
-      - label: Third Prize, Senior Design Project
-        details: Awarded 3rd prize for a synchronized calendar
-          project out of 100 entries
-    technologies:
+          - 'GPA: 3.6'
+          - '**Coursework:** Software Engineering, Computer Architecture, Computer Graphics,
+            Operating Systems'
+          - "**Awards:** Chancellor's Scholar, Provost Honors"
+    Skills:
       - label: Languages
-        details: C++, C, Java, Objective-C, C#, SQL, JavaScript
-      - label: Software
-        details: .NET, Microsoft SQL Server, XCode, Interface
-          Builder
+        details: C, C++, Python
+      - label: Tools
+        details: Visual Studio, Linux, Github, STM8 SPL, Raspberry Pi, GDB
+      - label: Certifications
+        details: Amateur Radio Technician License
+    experience:
+      - company: ZUM Radio
+        position: Software Developer
+        location: San Diego, CA
+        start_date: 2023-07
+        end_date: 2023-09
+        highlights: 
+          - Developed firmware in C for a custom STM8 board
+          - Saved company thousands of dollars by moving from a
+            proprietary compiler to an open source compiler 
+          - Designed and implemented custom data transfer protocol
+            based on I2C between microprocessor and Raspberry Pi 
+          - Investigated bugs using oscilloscopes and fixed hardware
+            problems with soldering 
+          - Used Github to keep track of changes and daily progress 
+      - company: University of California, San Diego
+        position: Student Mentor
+        location: San Diego, CA
+        start_date: 2022-07
+        end_date: 2022-09
+        highlights:
+          - Mentored a group of six students, in charge of guiding them on
+            what it's like to be a Computer Science student at UCSD 
+          - Worked lab hours where I helped students with introductory
+            CS lab assignments and later on students' personal projects 
+          - Built a sense of community among incoming students to UCSD
+            in order to promote a sense of belonging 
+    projects:
+      - name: Image Raytracer
+        date: 2024-03
+        highlights:
+          - Designed and implemented in C++ without graphics libraries 
+          - Facilitated cross platform compilation so program worked on both MacOS and Windows
+          - 'Tools Used: C++, Visual Studio'
+      - name: Smart Task Management App
+        date: 2022-12
+        highlights:
+          - Developed for a Software Engineering class in a group of 9 
+          - Responsible for the DevOps experience using Github Actions 
+          - Designed test suites for the application using Jest and Puppeteer 
+          - Deployed application using Electron.js
+          - 'Tools Used: HTML, CSS, JavaScript, Jest, Puppeteer, Electron.js'
 design:
   theme: classic
   font: Source Sans 3
@@ -141,9 +77,9 @@ design:
   page_size: letterpaper
   color: '#004f90'
   disable_external_link_icons: false
-  disable_page_numbering: false
+  disable_page_numbering: true
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  disable_last_updated_date: false
+  disable_last_updated_date: true
   last_updated_date_style: Last updated in TODAY
   header_font_size: 30 pt
   text_alignment: justified

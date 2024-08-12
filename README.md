@@ -1,97 +1,61 @@
-# John Doe's CV
+# Bradley Chester's CV
 
-- Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
-- Website: [yourwebsite.com](https://yourwebsite.com/)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Phone: +1 619 379 8902
+- Email: [bradleychester102@gmail.com](mailto:bradleychester102@gmail.com)
+- Location: San Diego, CA
+- LinkedIn: [bradley-chester](https://linkedin.com/in/bradley-chester)
+- GitHub: [bchester102](https://github.com/bchester102)
 
 
-# Welcome to RenderCV!
-
-[RenderCV](https://github.com/sinaatalay/rendercv) is a LaTeX-based CV/resume framework. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with **full Markdown syntax support** and **complete control over the LaTeX code**.
-
-The boilerplate content is taken from [here](https://github.com/dnl-blkv/mcdowell-cv), where a *clean and tidy CV* pattern is proposed by **[Gayle Laakmann McDowell](https://www.gayle.com/)**.
-
-# Quick Guide
-
-- Each section title is arbitrary, and each section contains a list of entries.
-- There are 7 unique entry types: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Select a section title, pick an entry type, and start writing your section!
-- [Here](https://docs.rendercv.com/user_guide/), you can find a comprehensive user guide for RenderCV.
 # Education
 
-## University of Pennsylvania, BS in Computer Science
+## University of California, San Diego, BS in Computer Science
 
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([Transcript](https://example.com))
-- **Coursework:** Computer Architecture, Artificial Intelligence, Comparison of Learning Algorithms, Computational Theory
+- Oct 2020 – June 2024
+- GPA: 3.6
+- **Coursework:** Software Engineering, Computer Architecture, Computer Graphics, Operating Systems
+- **Awards:** Chancellor's Scholar, Provost Honors
 
+# Skills
+
+- Languages: C, C++, Python
+- Tools: Visual Studio, Linux, Github, STM8 SPL, Raspberry Pi, GDB
+- Certifications: Amateur Radio Technician License
 # Experience
 
-## Apple, Software Engineer
+## ZUM Radio, Software Developer
 
-- June 2005 – Aug 2007
-- Cupertino, CA
-- Reduced time to render the user's buddy list by 75% by implementing a prediction algorithm
-- Implemented iChat integration with OS X Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
-- Redesigned chat file format and implemented backward compatibility for search
+- July 2023 – Sept 2023
+- San Diego, CA
+- Developed firmware in C for a custom STM8 board
+- Saved company thousands of dollars by moving from a proprietary compiler to an open source compiler
+- Designed and implemented custom data transfer protocol based on I2C between microprocessor and Raspberry Pi
+- Investigated bugs using oscilloscopes and fixed hardware problems with soldering
+- Used Github to keep track of changes and daily progress
 
-## Microsoft, Lead Student Ambassador
+## University of California, San Diego, Student Mentor
 
-- Sept 2003 – Apr 2005
-- Redmond, WA
-- Promoted to Lead Student Ambassador in the Fall of 2004, supervised 10-15 Student Ambassadors
-- Created and taught a computer science course, CSE 099: Software Design and Development
-
-## University of Pennsylvania, Head Teaching Assistant
-
-- Oct 2001 – May 2003
-- Philadelphia, PA
-- Implemented a user interface for the VS open file switcher (ctrl-tab) and extended it to tool windows
-- Created a service to provide gradient across VS and VS add-ins, optimized its performance via caching
-- Programmer Productivity Research Center (Summers 2001, 2002)
-- Built an app to compute the similarity of all methods in a code base, reducing the time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$
-- Created a test case generation tool that creates random XML docs from XML Schema
-
-## Microsoft, Software Engineer, Intern
-
-- June 2003 – Aug 2003
-- Redmond, WA
-- Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
-
-# Publications
-
-## Magneto-Thermal Thin Shell Approximation for 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Albert Smith, ***John Doe***, Jane Derry, Harry Tom, Frodo Baggins
+- July 2022 – Sept 2022
+- San Diego, CA
+- Mentored a group of six students, in charge of guiding them on what it's like to be a Computer Science student at UCSD
+- Worked lab hours where I helped students with introductory CS lab assignments and later on students' personal projects
+- Built a sense of community among incoming students to UCSD in order to promote a sense of belonging
 
 # Projects
 
-## Multi-User Drawing Tool
+## Image Raytracer
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed an electronic classroom where multiple users can view and simultaneously draw on a "chalkboard" with each person's edits synchronized
-- Tools Used: C++, MFC
+- Mar 2024
+- Designed and implemented in C++ without graphics libraries
+- Facilitated cross platform compilation so program worked on both MacOS and Windows
+- Tools Used: C++, Visual Studio
 
-## Synchronized Calendar
+## Smart Task Management App
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-- Tools Used: C#, .NET, SQL, XML
+- Dec 2022
+- Developed for a Software Engineering class in a group of 9
+- Responsible for the DevOps experience using Github Actions
+- Designed test suites for the application using Jest and Puppeteer
+- Deployed application using Electron.js
+- Tools Used: HTML, CSS, JavaScript, Jest, Puppeteer, Electron.js
 
-## Operating System
-
-- 2002
-- Developed a UNIX-style OS with a scheduler, file system, text editor, and calculator
-- Tools Used: C
-
-# Additional Experience and Awards
-
-- Instructor (2003-2005): Taught 2 full-credit computer science courses
-- Third Prize, Senior Design Project: Awarded 3rd prize for a synchronized calendar project out of 100 entries
-# Technologies
-
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Software: .NET, Microsoft SQL Server, XCode, Interface Builder
