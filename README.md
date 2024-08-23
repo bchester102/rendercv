@@ -13,7 +13,7 @@
 
 - Oct 2020 – June 2024
 - GPA: 3.6
-- **Coursework:** Software Engineering, Computer Architecture, Computer Graphics, Operating Systems
+- **Coursework:** Computer Science Education, Software Engineering, Computer Architecture, Computer Graphics, Operating Systems
 - **Awards:** Chancellor's Scholar, Provost Honors
 
 # Skills
@@ -33,6 +33,14 @@
 - Investigated bugs using oscilloscopes and fixed hardware problems with soldering
 - Used Github to keep track of changes and daily progress
 
+## University of California, San Diego, ENG 15 Tutor/Reader
+
+- Oct 2022 – Dec 2022
+- San Diego, CA
+- Ran office hour style discussion sessions and supported students in their learning
+- Graded assignments in a timely matter, making sure good feedback was given on student's work
+- Kept open communication with students via email and canvas inbox for any questions and concerns
+
 ## University of California, San Diego, Student Mentor
 
 - July 2022 – Sept 2022
@@ -41,21 +49,11 @@
 - Worked lab hours where I helped students with introductory CS lab assignments and later on students' personal projects
 - Built a sense of community among incoming students to UCSD in order to promote a sense of belonging
 
-# Projects
+## University of California, San Diego, Student Tutor
 
-## Image Raytracer
-
-- Mar 2024
-- Designed and implemented in C++ without graphics libraries
-- Facilitated cross platform compilation so program worked on both MacOS and Windows
-- Tools Used: C++, Visual Studio
-
-## Smart Task Management App
-
-- Dec 2022
-- Developed for a Software Engineering class in a group of 9
-- Responsible for the DevOps experience using Github Actions
-- Designed test suites for the application using Jest and Puppeteer
-- Deployed application using Electron.js
-- Tools Used: HTML, CSS, JavaScript, Jest, Puppeteer, Electron.js
+- Apr 2021 – June 2021
+- San Diego, CA
+- Created and presented workshops to teach high schoolers introductory Computer Science topics
+- Hosted review sessions for AP CS A students
+- Developed curriculum to introduce K-12 students to Python
 

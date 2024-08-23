@@ -18,7 +18,7 @@ cv:
         end_date: 2024-06
         highlights:
           - 'GPA: 3.6'
-          - '**Coursework:** Software Engineering, Computer Architecture, Computer Graphics,
+          - '**Coursework:** Computer Science Education, Software Engineering, Computer Architecture, Computer Graphics,
             Operating Systems'
           - "**Awards:** Chancellor's Scholar, Provost Honors"
     Skills:
@@ -44,6 +44,15 @@ cv:
             problems with soldering 
           - Used Github to keep track of changes and daily progress 
       - company: University of California, San Diego
+        position: ENG 15 Tutor/Reader
+        location: San Diego, CA
+        start_date: 2022-10
+        end_date: 2022-12
+        highlights: 
+          - Ran office hour style discussion sessions and supported students in their learning
+          - Graded assignments in a timely matter, making sure good feedback was given on student's work
+          - Kept open communication with students via email and canvas inbox for any questions and concerns
+      - company: University of California, San Diego
         position: Student Mentor
         location: San Diego, CA
         start_date: 2022-07
@@ -55,21 +64,31 @@ cv:
             CS lab assignments and later on students' personal projects 
           - Built a sense of community among incoming students to UCSD
             in order to promote a sense of belonging 
-    projects:
-      - name: Image Raytracer
-        date: 2024-03
+      - company: University of California, San Diego
+        position: Student Tutor
+        location: San Diego, CA
+        start_date: 2021-04
+        end_date: 2021-06
         highlights:
-          - Designed and implemented in C++ without graphics libraries 
-          - Facilitated cross platform compilation so program worked on both MacOS and Windows
-          - 'Tools Used: C++, Visual Studio'
-      - name: Smart Task Management App
-        date: 2022-12
-        highlights:
-          - Developed for a Software Engineering class in a group of 9 
-          - Responsible for the DevOps experience using Github Actions 
-          - Designed test suites for the application using Jest and Puppeteer 
-          - Deployed application using Electron.js
-          - 'Tools Used: HTML, CSS, JavaScript, Jest, Puppeteer, Electron.js'
+          - Created and presented workshops to teach high schoolers introductory Computer Science topics 
+          - Hosted review sessions for AP CS A students
+          - Developed curriculum to introduce K-12 students to Python
+
+    # projects:
+    #   - name: Image Raytracer
+    #     date: 2024-03
+    #     highlights:
+    #       - Designed and implemented in C++ without graphics libraries 
+    #       - Facilitated cross platform compilation so program worked on both MacOS and Windows
+    #       - 'Tools Used: C++, Visual Studio'
+    #   - name: Smart Task Management App
+    #     date: 2022-12
+    #     highlights:
+    #       - Developed for a Software Engineering class in a group of 9 
+    #       - Responsible for the DevOps experience using Github Actions 
+    #       - Designed test suites for the application using Jest and Puppeteer 
+    #       - Deployed application using Electron.js
+    #       - 'Tools Used: HTML, CSS, JavaScript, Jest, Puppeteer, Electron.js'
 design:
   theme: classic
   font: Source Sans 3
