@@ -13,29 +13,25 @@
 
 - Oct 2020 – June 2024
 - GPA: 3.6
-- **Coursework:** Software Engineering, Computer Architecture, Computer Graphics, Operating Systems
+- **Coursework:** Software Engineering, Algorithm Design and Analysis, Computer Architecture, Computer Graphics, Operating Systems, Database System Principles, Programming Language Principles, Computer Security
 - **Awards:** Chancellor's Scholar, Provost Honors
 
 # Skills
 
-- Languages: C, C++, Python
+- Languages: C, C++, Python, Java, JavaScript
 - Tools: Visual Studio, Linux, Github, STM8 SPL, Raspberry Pi, GDB
 - Certifications: Amateur Radio Technician License
 # Experience
 
 ## ZUM Radio, Software Developer
 
-- July 2023 – Sept 2023
 - San Diego, CA
 - Developed firmware in C for a custom STM8 board
-- Saved company thousands of dollars by moving from a proprietary compiler to an open source compiler
 - Designed and implemented custom data transfer protocol based on I2C between microprocessor and Raspberry Pi
-- Investigated bugs using oscilloscopes and fixed hardware problems with soldering
 - Used Github to keep track of changes and daily progress
 
-## University of California, San Diego, Student Mentor
+## University of California, San Diego, Student Tutor
 
-- July 2022 – Sept 2022
 - San Diego, CA
 - Mentored a group of six students, in charge of guiding them on what it's like to be a Computer Science student at UCSD
 - Worked lab hours where I helped students with introductory CS lab assignments and later on students' personal projects
@@ -43,12 +39,13 @@
 
 # Projects
 
-## Image Raytracer
+## Custom CPU Design and Implementation
 
-- Mar 2024
-- Designed and implemented in C++ without graphics libraries
-- Facilitated cross platform compilation so program worked on both MacOS and Windows
-- Tools Used: C++, Visual Studio
+- June 2024
+- Designed a CPU instruction set from scratch to solve specific problems
+- Implemented using FPGA design software
+- Created assembler for assembly-like language
+- Tools Used: SystemVerilog, Quartus, Modelsim, C, Python
 
 ## Smart Task Management App
 
