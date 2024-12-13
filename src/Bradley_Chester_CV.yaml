@@ -34,6 +34,8 @@ cv:
       - company: ZUM Radio
         position: Software Developer
         location: San Diego, CA
+        start_date: 2023-07
+        end_date: 2023-09
         highlights: 
           - Developed firmware in C for a custom STM8 board
           - Designed and implemented custom data transfer protocol
@@ -42,6 +44,8 @@ cv:
       - company: University of California, San Diego
         position: Student Tutor
         location: San Diego, CA
+        start_date: 2022-07
+        end_date: 2022-09
         highlights:
           - Mentored a group of six students, in charge of guiding them on
             what it's like to be a Computer Science student at UCSD 
@@ -108,5 +112,5 @@ design:
       vertical_between_name_and_connections: 0.3 cm
       bottom: 0.3 cm
       horizontal_between_connections: 0.5 cm
-  show_timespan_in:
-    - Experience
+  # show_timespan_in:
+  #   - Experience

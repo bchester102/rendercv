@@ -25,6 +25,7 @@
 
 ## ZUM Radio, Software Developer
 
+- July 2023 – Sept 2023
 - San Diego, CA
 - Developed firmware in C for a custom STM8 board
 - Designed and implemented custom data transfer protocol based on I2C between microprocessor and Raspberry Pi
@@ -32,6 +33,7 @@
 
 ## University of California, San Diego, Student Tutor
 
+- July 2022 – Sept 2022
 - San Diego, CA
 - Mentored a group of six students, in charge of guiding them on what it's like to be a Computer Science student at UCSD
 - Worked lab hours where I helped students with introductory CS lab assignments and later on students' personal projects
